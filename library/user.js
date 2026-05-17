@@ -4,7 +4,7 @@ export class User{
         this.tz=tz
         this.name=name
         this.type=type
-        this.istook=false
+        this.isTook=false
 
     }
 }
